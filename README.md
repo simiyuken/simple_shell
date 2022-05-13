@@ -35,4 +35,4 @@ $ gcc -Wall -pedantic -Werror Wextra *.c -o hsh
 
 * Kennedy Simiyu <kens191700@gmail.com>
 
-* Loise Ndiritu <loisendiritu5@gmail.com>
+* Loise Ndiritu <loisendiritu94@gmail.com>
